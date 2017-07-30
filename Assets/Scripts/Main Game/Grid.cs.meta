@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f9221a4eb7988440b31aae5440f04e1
+timeCreated: 1501295869
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dirt: {fileID: 1417214933335244, guid: 54c83cab36629d040be24d45c881d4de, type: 2}
+  - coal: {fileID: 1838121036620678, guid: 2e27df9ef5415384fb22e558dc776c58, type: 2}
+  - bedrock: {fileID: 1273467686564836, guid: e0d6f3a0bf5a97546b1c026eebadc1b8, type: 2}
+  - grass: {fileID: 1963462976706774, guid: cd840ebb0d2ffdb43a034f68060b01af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
