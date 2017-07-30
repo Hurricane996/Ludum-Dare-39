@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{F669B58E-5044-2217-9FFD-7292FFE812F5}</ProjectGuid>
+    <ProjectGuid>{80A2E8B4-2356-FE56-1377-1FEE3E8F80CC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -13,13 +13,11 @@
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
-    <CompilerResponseFile>
-    </CompilerResponseFile>
+    <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>5.5.2f1</UnityVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -97,8 +95,8 @@
     <Compile Include="Assets\Scripts\Main Game\Tile.cs" />
     <Compile Include="Assets\Scripts\Main Game\UI\PauseMenuController.cs" />
     <Compile Include="Assets\Scripts\Main Game\UI\UIItem.cs" />
-    <Compile Include="Assets\Scripts\Start\StartUIManager.cs" />
     <Compile Include="Assets\Scripts\Start\StartUIButton.cs" />
+    <Compile Include="Assets\Scripts\Start\StartUIManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Credits_Liscences\Pixelated Font.txt" />

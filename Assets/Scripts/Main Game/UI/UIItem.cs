@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class UIManager : MonoBehaviour {
+public class UIItem : MonoBehaviour {
 
     // Use this for initialization
     void Start() {

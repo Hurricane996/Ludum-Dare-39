@@ -8,8 +8,8 @@ public class GameController : MonoBehaviour {
     public int power = 20;
     public int score = 0;
     public float gameClock;
-    public UIManager powertext;
-    public UIManager scoretext;
+    public UIItem powertext;
+    public UIItem scoretext;
 	// Use this for initialization
 	void Start () {
 		
