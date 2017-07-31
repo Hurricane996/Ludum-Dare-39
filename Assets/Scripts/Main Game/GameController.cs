@@ -32,6 +32,9 @@ public class GameController : MonoBehaviour {
             {
                 SceneManager.LoadScene(3);
             }
+            if (score >= 50) {
+                SceneManager.LoadScene(4);
+            }
         }
 	}
 }
